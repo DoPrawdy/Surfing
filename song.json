@@ -1,0 +1,15 @@
+{
+  "unit": 18823,
+  "loops": {
+    "guitar": [[0, 4, {"volume_modifier": 15, "end_offset": -100}]],
+    "drums": [[2, 16, {"volume_modifier": 0, "start_offset": 0}]],
+    "bass_high": [[3, 6, {"volume_modifier": 8}], [14, 16, {"volume_modifier": 10}]],
+    "piano": [[4, 6, {"volume_modifier": 0}]],
+    "synth": [[4, 6, {"volume_modifier": -11}]],
+    "bells": [[5, 6, {"volume_modifier": 4}]],
+    "bass_low": [[4, 16, {"volume_modifier": 9}]],
+    "organs": [[6, 8, {"volume_modifier": 2}], [10, 12, {"volume_modifier": 2}]],
+    "vocals": [[6, 14, {"volume_modifier": -3}]],
+    "arpeggio": [[8, 10, {"volume_modifier": 2}], [12, 14, {"volume_modifier": 2}]]
+  }
+}

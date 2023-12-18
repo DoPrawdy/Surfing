@@ -1,0 +1,2 @@
+Akai MPK Mini Mk3 Midi Keyboard
+Some pipe sound utilizing the arpeggiator with some synth sound in the background. Connected to line in of the Boss RC-505 LoopStation looper.
