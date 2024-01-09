@@ -1,7 +1,7 @@
 {
   "unit": 18823,
   "loops": {
-    "guitar": [[0, 4, {"volume_modifier": 15, "end_offset": -100}]],
+    "guitar": [[0, 4, {"volume_modifier": 15, "end_offset": -100}], [4, 6, {"volume_modifier": 10, "end_offset": -100}]],
     "drums": [[2, 16, {"volume_modifier": 0, "start_offset": 0}]],
     "bass_high": [[3, 6, {"volume_modifier": 8}], [14, 16, {"volume_modifier": 10}]],
     "piano": [[4, 6, {"volume_modifier": 0}]],
